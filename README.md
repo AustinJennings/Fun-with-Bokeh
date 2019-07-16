@@ -8,7 +8,7 @@ Bokeh visualizations have several benefits over static .jpg/.png matplotlib outp
 * The output documents are HTML, which can be opened and viewed by anyone with a web browser.
 * Bokeh is scalable, allowing data streaming and dynamic updates when coupled with Bokeh Server.
 
-As with my [SW-Data-Analysis repo](https://github.com/AustinJennings/SW-Data-Analysis), these notebooks represent a hugge step forward for my organization.
+As with my [SW-Data-Analysis repo](https://github.com/AustinJennings/SW-Data-Analysis), these notebooks represent a huge step forward for my organization.
 The ability to leverage our new water quality database's web API opens up a world of possiblilities 
 in terms of data sharing, visualization, and exploration. Curated reports can keep decision-makers informed
 without them needing data-science chops or experience with the proprietary database GUI. They also save
